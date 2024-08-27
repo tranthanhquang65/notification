@@ -1,0 +1,14 @@
+{
+  "name": "notification-app",
+  "version": "1.0.0",
+  "description": "Notification bot",
+  "main": "notification.js",
+  "scripts": {
+    "start": "node notification.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^1.0.0",
+    "discord.js": "^13.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
